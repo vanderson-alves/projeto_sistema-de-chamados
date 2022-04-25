@@ -1,0 +1,17 @@
+1°: Nova página: customers (clientes)
+2°: Dentro de customers cria um component normal
+3°: Importa o css (customers.css)
+
+4°: routes > index.js 
+5°: import Costumers from '../pages/Customers'
+6°:  <Route exact path="/customers" component={Customers} isPrivate/>
+
+7°: Customers > index.js
+8°: import Title from '../../components/Title'
+9°: import Header from '../../components/Header'
+10°: Colocar o component "<Header/> dentro da div
+11°: Criar nova div e colocar component "<Title name="Clientes"> <FiUser/> </Title> ------- > (import {FiUser} from 'react-icons/fi')
+12°: Cria outra div com class "container" 
+13°: A partir daí começa a criar o conteúdo de clientes
+
+14°: importa os Hooks {useState etcs}
