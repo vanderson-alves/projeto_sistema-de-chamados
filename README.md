@@ -30,7 +30,7 @@ O projeto se trata de um sistema de chamados para empresas, o seu objetivo é vi
 #### No dashboard é possível visualizar detalhes do chamado assim como editar o próprio chamado:
 ![Página de visualizar detalhes](imagens/detalhes-do-chamado.JPG)
 
-### Por fim está a página "meu perfil" onde há uma imagem de perfil, nome e email:
+#### Por fim está a página "meu perfil" onde há uma imagem de perfil, nome e email:
 ![Página de meu perfil](imagens/minha-conta.JPG)
 
 ## Tecnologias utilizadas:
