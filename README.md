@@ -16,7 +16,7 @@ O projeto se trata de um sistema de chamados para empresas, o seu objetivo é vi
 ## Exemplo de funcionamento do projeto:
 
 #### A primeira página se trata da página de cadastro do usuário:
-![Página de cadastro](src/assets/cadastrar.jpg))
+![Página de cadastro](sistema-de-chamados/src/assets/cadastrar.jpg))
 
 #### A segunda página se trata da página de login do usuário:
 ![Página de login](src/assets/login.jpg))
