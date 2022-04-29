@@ -16,22 +16,22 @@ O projeto se trata de um sistema de chamados para empresas, o seu objetivo é vi
 ## Exemplo de funcionamento do projeto:
 
 #### A primeira página se trata da página de cadastro do usuário:
-![Página de cadastro](sistema-de-chamados/src/assets/cadastrar.jpg))
+![Página de cadastro](imagens/cadastrar.jpg))
 
 #### A segunda página se trata da página de login do usuário:
-![Página de login](src/assets/login.jpg))
+![Página de login](imagens/login.jpg))
 
 #### Em seguida é possível ver o dashboard principal do projeto:
-![Página de dashboard](src/assets/chamados.jpg))
+![Página de dashboard](imagens/chamados.jpg))
 
 #### Há um botão de "novo chamado" que redireciona para a página de cadastro de clientes:
-![Página de clientes](src/assets/clientes.jpg))
+![Página de clientes](imagens/clientes.jpg))
 
 #### No dashboard é possível visualizar detalhes do chamado assim como editar o próprio chamado:
-![Página de visualizar detalhes](src/assets/detalhes-do-chamado.jpg))
+![Página de visualizar detalhes](imagens/detalhes-do-chamado.jpg))
 
 ### Por fim está a página "meu perfil" onde há uma imagem de perfil, nome e email:
-![Página de meu perfil](src/assets/minha-conta.jpg))
+![Página de meu perfil](imagens/minha-conta.jpg))
 
 ## Tecnologias utilizadas:
 * React.JS
